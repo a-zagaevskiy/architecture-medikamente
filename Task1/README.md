@@ -1,5 +1,19 @@
 # Анализ безопасности системы
 
+## Диаграммы потоков данных
+
+[Файл draw.io](DataFlowDiagram.drawio)
+
+![dfd1](img/dfd1.PNG)
+![dfd2](img/dfd2.PNG)
+![dfd3](img/dfd3.PNG)
+![dfd4](img/dfd4.PNG)
+![dfd5](img/dfd5.PNG)
+![dfd6](img/dfd6.PNG)
+![dfd7](img/dfd7.PNG)
+![dfd8](img/dfd8.PNG)
+![dfd9](img/dfd9.PNG)
+
 ## Проблемные зоны
 
 * Отсутствие разграничения доступа до данных в системе. Любой сотрудник имеет возможность просмотреть и изменить любые данные в системе.
